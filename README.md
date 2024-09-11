@@ -19,6 +19,12 @@ Cette commande compile les trois composants du projet :
 - `client` : le client de la chatroom qui communique avec le serveur.
 - `c_interface` : l'interface utilisateur du client, utilisant `ncurses` et `pthread` pour une expérience interactive.
 
+## Exemple
+
+Voici un exemple montrant l'interface utilisateur de l'application chatroom avec un serveur et 3 clients :
+
+![Capture d'écran](imgs/capture.jpg)
+
 ## Utilisation
 Après la compilation, vous pouvez démarrer le serveur, l'interface client, et le client en utilisant les exécutables générés.
 
@@ -48,3 +54,4 @@ Pour supprimer les exécutables et nettoyer votre répertoire de travail, utilis
 ```bash
 make clean
 ```
+
