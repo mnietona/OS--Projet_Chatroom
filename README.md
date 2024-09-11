@@ -1,6 +1,6 @@
 # Chatroom - Projet de Système d'Exploitation (OS)
 
-## Cours : INFOF201 - Programmation Systèmes
+## Cours : INFOF201 - Programmation Systèmes 
 
 ## Description du Projet
 Ce projet a été développé dans le cadre du cours de système d'exploitation (OS). Il s'agit d'une application chatroom qui permet à plusieurs utilisateurs de communiquer en temps réel. Le projet est divisé en trois composants principaux : le serveur, le client, et l'interface client. Ces composants facilitent la gestion des connexions, l'envoi et la réception de messages, ainsi que l'interaction utilisateur grâce à une interface conviviale.
